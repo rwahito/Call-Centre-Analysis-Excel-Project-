@@ -4,6 +4,9 @@
 This analysis evaluates the performance of four call centres in the United States during **October 2022**.  
 It highlights customer behavior, call trends, and service performance, with recommendations to improve customer experience and operational efficiency.  
 
+
+<img width="1828" height="759" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/3af55d56-7efd-4e84-affc-40ed91b31328" />
+
 ---
 
 ## Data Source  
