@@ -33,7 +33,7 @@ It highlights customer behavior, call trends, and service performance, with reco
 
 ---
 
-## 📈 Exploratory Analysis Questions  
+## Exploratory Analysis Questions  
 - What is the average Customer Satisfaction (CSat Score)?  
 - What are the main reasons for calls?  
 - Which channel received the most calls?  
@@ -44,7 +44,7 @@ It highlights customer behavior, call trends, and service performance, with reco
 
 ---
 
-## 📊 Key Findings  
+## Key Findings  
 1. **Total Call Centres:** 4 → *Los Angeles is the busiest*  
 2. **Total Calls:** 32.9K  
 3. **Busiest Day:** Friday (5.6K calls)  
@@ -54,7 +54,7 @@ It highlights customer behavior, call trends, and service performance, with reco
 
 ---
 
-## ✅ Recommendations  
+## Recommendations  
 - **Customer Sentiment Survey**: Collect structured feedback to uncover pain points and improve service quality.  
 - **Mandatory CSat Score Tracking**: Helps identify the best-performing channels in terms of customer satisfaction.  
 
