@@ -5,6 +5,7 @@ This analysis evaluates the performance of four call centres in the United State
 It highlights customer behavior, call trends, and service performance, with recommendations to improve customer experience and operational efficiency.  
 
 
+<img width="1828" height="759" alt="Overview" src="https://github.com/user-attachments/assets/42d3d1c8-eebb-4d47-a907-cc27c46f6658" />
 
 ---
 
